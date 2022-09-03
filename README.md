@@ -7,6 +7,7 @@ Just a collection of all sorts of nice bits and bobs
 ## Directories and collections of website designs
 + Hoverstat.es, a collection of modern and creative web designs: https://www.hoverstat.es/
 + Godly, a repertoire of great web design: https://godly.website/
++ Examples of brutalist web design: https://brutalistwebsites.com/
 
 ## Individual Website Examples
 + Nice progression bar, but UX could be improved: https://camillemormal.com/
