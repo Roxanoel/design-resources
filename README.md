@@ -19,3 +19,6 @@ Just a collection of all sorts of nice bits and bobs
 + Replicating old Mac interface: https://mattos-1.webflow.io/
 + A personal website that is a bit more classic but very effective: https://www.danmachado.com/
 + Effective single-page portfolio, although a bit heavy on text: https://www.garysheng.com/
+
+## Foundries/fonts
++ Colophon foundry: https://www.colophon-foundry.org/
