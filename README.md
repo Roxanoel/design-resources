@@ -10,4 +10,5 @@ Just a collection of all sorts of nice bits and bobs
 
 ## Individual Website Examples
 + Nice progression bar, but UX could be improved: https://camillemormal.com/
-+ Moniker design studio: https://monikersf.com/
++ Moniker design studio: https://monikersf.com/ 
++ Solar-powered magazine website: https://solar.lowtechmagazine.com/
