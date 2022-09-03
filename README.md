@@ -13,3 +13,9 @@ Just a collection of all sorts of nice bits and bobs
 + Nice progression bar, but UX could be improved: https://camillemormal.com/
 + Moniker design studio: https://monikersf.com/ 
 + Solar-powered magazine website: https://solar.lowtechmagazine.com/
++ Fun and lively photographer's website: https://mackpouya.webflow.io/
++ Fun and minimalist portfolio design: https://webflow.com/made-in-webflow/website/COLIN-MOY
++ Personal website with interactivity: https://nevflynn.com/?ref=godly
++ Replicating old Mac interface: https://mattos-1.webflow.io/
++ A personal website that is a bit more classic but very effective: https://www.danmachado.com/
++ Effective single-page portfolio, although a bit heavy on text: https://www.garysheng.com/
