@@ -22,3 +22,6 @@ Just a collection of all sorts of nice bits and bobs
 
 ## Foundries/fonts
 + Colophon foundry: https://www.colophon-foundry.org/
+
+## Dev Utilities
++ To check package sizes: https://bundlephobia.com/
