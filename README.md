@@ -1,8 +1,10 @@
 # design-resources
 Just a collection of all sorts of nice bits and bobs
 
-## Components
+## Components/Assets
 + Vercel design system: https://vercel.com/design
++ Streamline icon library: https://www.streamlinehq.com/
++ feather open source icons: https://feathericons.com/
 
 ## Directories and collections of website designs
 + Hoverstat.es, a collection of modern and creative web designs: https://www.hoverstat.es/
