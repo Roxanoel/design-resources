@@ -11,6 +11,7 @@ Just a collection of all sorts of nice bits and bobs
 + Godly, a repertoire of great web design: https://godly.website/
 + Examples of brutalist web design: https://brutalistwebsites.com/
 + Ideas for proximity feedback: https://tympanus.net/Development/ProximityFeedback/index.html
++ Examples of type capsules: https://www.typography.com/blog/type-capsules
 
 ## Individual Website Examples
 + Nice progression bar, but UX could be improved: https://camillemormal.com/
