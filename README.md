@@ -28,3 +28,4 @@ Just a collection of all sorts of nice bits and bobs
 
 ## Dev Utilities
 + To check package sizes: https://bundlephobia.com/
++ Character count plugin for Chrome: https://chrome.google.com/webstore/detail/45to75/efmppndinjbljeellfdkpghgblenbcdd?hl=en
