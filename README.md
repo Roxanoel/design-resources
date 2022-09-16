@@ -29,6 +29,7 @@ Just a collection of all sorts of nice bits and bobs
 + Colophon foundry: https://www.colophon-foundry.org/
 + Ohno, a foundry with beautiful funky fonts: https://ohnotype.co/
 + Fort foundry: https://fortfoundry.com/
++ Klim, has demos you can dl: https://klim.co.nz/
 
 ## Dev Utilities
 + To check package sizes: https://bundlephobia.com/
