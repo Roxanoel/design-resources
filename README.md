@@ -30,6 +30,10 @@ Just a collection of all sorts of nice bits and bobs
 + Ohno, a foundry with beautiful funky fonts: https://ohnotype.co/
 + Fort foundry: https://fortfoundry.com/
 + Klim, has demos you can dl: https://klim.co.nz/
++ Letters from Sweden: https://lettersfromsweden.se/
++ Lineto: https://lineto.com/typefaces
++ Swiss typefaces: https://www.swisstypefaces.com/fonts/
++ Schick Toikka: https://www.schick-toikka.com/
 
 ## Dev Utilities
 + To check package sizes: https://bundlephobia.com/
