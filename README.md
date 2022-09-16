@@ -34,6 +34,7 @@ Just a collection of all sorts of nice bits and bobs
 + Lineto: https://lineto.com/typefaces
 + Swiss typefaces: https://www.swisstypefaces.com/fonts/
 + Schick Toikka: https://www.schick-toikka.com/
++ Grillitype, has free font trials: https://www.grillitype.com/typefaces
 
 ## Dev Utilities
 + To check package sizes: https://bundlephobia.com/
