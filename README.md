@@ -36,6 +36,7 @@ Just a collection of all sorts of nice bits and bobs
 + Swiss typefaces: https://www.swisstypefaces.com/fonts/
 + Schick Toikka: https://www.schick-toikka.com/
 + Grillitype, has free font trials: https://www.grillitype.com/typefaces
++ Basement Foundry: https://foundry.basement.studio/
 
 ## Dev Utilities
 + To check package sizes: https://bundlephobia.com/
