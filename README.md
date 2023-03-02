@@ -13,6 +13,7 @@ Just a collection of all sorts of nice bits and bobs
 + Ideas for proximity feedback: https://tympanus.net/Development/ProximityFeedback/index.html
 + Examples of type capsules: https://www.typography.com/blog/type-capsules
 + Repository of design systems: https://designsystemsrepo.com/design-systems/
++ Gallery of minimalist designs: https://siiimple.com/
 
 ## Individual Website Examples
 + Nice progression bar, but UX could be improved: https://camillemormal.com/
