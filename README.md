@@ -46,3 +46,9 @@ Just a collection of all sorts of nice bits and bobs
 
 ## Learning 
 + CSS cursors: https://codepen.io/benlinton/pen/JXzZBp
+
+## OpenGraph
++ Documentation: https://ogp.me/
++ Pinterest OG validator: https://developers.pinterest.com/tools/url-debugger/
++ Facebook debug tool: https://developers.facebook.com/tools/debug/
++ Twitter card url validator: https://cards-dev.twitter.com/validator
