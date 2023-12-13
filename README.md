@@ -47,6 +47,7 @@ Just a collection of all sorts of nice bits and bobs
 ## Learning 
 + CSS cursors: https://codepen.io/benlinton/pen/JXzZBp
 + To practice with prompts: https://www.dailyui.co/
++ iOS design patterns: https://frankrausch.com/ios-navigation
 
 ## OpenGraph
 + Documentation: https://ogp.me/
