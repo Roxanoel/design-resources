@@ -48,6 +48,7 @@ Just a collection of all sorts of nice bits and bobs
 + CSS cursors: https://codepen.io/benlinton/pen/JXzZBp
 + To practice with prompts: https://www.dailyui.co/
 + iOS design patterns: https://frankrausch.com/ios-navigation
++ The Odin Project, an open-source "bootcamp-style" curriculum for learning web development: https://www.theodinproject.com/
 
 ## OpenGraph
 + Documentation: https://ogp.me/
